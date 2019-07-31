@@ -1,0 +1,5 @@
+C:\Workspaces\csv2xlsx\csv2xlsx\bin\Release\csv2xlsx.exe
+C:\Workspaces\csv2xlsx\csv2xlsx\bin\Release\csv2xlsx.pdb
+C:\Workspaces\csv2xlsx\csv2xlsx\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Workspaces\csv2xlsx\csv2xlsx\obj\x86\Release\csv2xlsx.exe
+C:\Workspaces\csv2xlsx\csv2xlsx\obj\x86\Release\csv2xlsx.pdb

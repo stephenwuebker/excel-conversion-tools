@@ -1,0 +1,12 @@
+C:\Users\swuebker\AppData\Local\Temporary Projects\xls2csv\bin\Release\xls2csv.exe
+C:\Users\swuebker\AppData\Local\Temporary Projects\xls2csv\bin\Release\xls2csv.pdb
+C:\Users\swuebker\AppData\Local\Temporary Projects\xls2csv\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\swuebker\AppData\Local\Temporary Projects\xls2csv\obj\x86\Release\xls2csv.csproj.ResolveComReference.cache
+C:\Users\swuebker\AppData\Local\Temporary Projects\xls2csv\obj\x86\Release\xls2csv.exe
+C:\Users\swuebker\AppData\Local\Temporary Projects\xls2csv\obj\x86\Release\xls2csv.pdb
+C:\Workspaces\xls2csv\xls2csv\obj\x86\Release\xls2csv.csproj.ResolveComReference.cache
+C:\Workspaces\xls2csv\xls2csv\obj\x86\Release\xls2csv.exe
+C:\Workspaces\xls2csv\xls2csv\obj\x86\Release\xls2csv.pdb
+C:\Workspaces\xls2csv\xls2csv\bin\Release\xls2csv.exe
+C:\Workspaces\xls2csv\xls2csv\bin\Release\xls2csv.pdb
+C:\Workspaces\xls2csv\xls2csv\obj\x86\Release\ResolveAssemblyReference.cache
